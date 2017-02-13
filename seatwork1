@@ -1,0 +1,9 @@
+Step 1: Start
+Step 2: Declare variables num1, num2, sum, difference, product & quotient
+Step 3: Read values for num1 & num2
+Step 4: Add num1 & num2 & assign the result to sum
+Step 5: Subtract num1 & num2 & assign the result to difference
+Step 6: Multiply num1 & num2 & assign the result to product
+Step 7: Divide num1 & num2  & assign the result to quotient
+Step 8: Display sum & diffence & product & quotient
+Step 9: Stop
