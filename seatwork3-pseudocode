@@ -1,4 +1,22 @@
 Step 1: Start
 Step 2: Declare variables studentGrade
-Step 3: Read variables studentGrade
-Step 4: If 
+Step 3: Input variables studentGrade
+Step 4: If (studentGrade >= 97)
+        THEN display "4.0"
+Else If (studentGrade >= 93) 
+        THEN display "3.5"
+Else If (studentGrade >= 89) 
+        THEN display "3.0"
+Else If (studentGrade >= 85) 
+        THEN display "2.5"
+Else If (studentGrade >= 80) 
+        THEN display "2.0"
+Else If (studentGrade >= 75) 
+        THEN display "1.5"
+Else If (studentGrade >= 70) 
+        THEN display "1.0"
+Else 
+        THEN display "0"
+Step 5: Stop
+        
+
