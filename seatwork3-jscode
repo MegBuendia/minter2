@@ -1,0 +1,24 @@
+if studentGrade >= 97 then
+   resultLabel.number = "4.0" ' display "4.0"
+else
+if studentGrade >= 93 then
+   resultLabel.number = "3.5" ' display "3.5"
+else
+if studentGrade >= 89 then
+   resultLabel.number = "3.0" ' display "3.0"
+else
+if studentGrade >= 85 then
+   resultLabel.number = "2.5" ' display "2.5"
+else
+if studentGrade >= 80 then
+   resultLabel.number = "2.0" ' display "2.0"
+else
+if studentGrade >= 75 then
+   resultLabel.number = "1.5" ' display "1.5"
+else
+if studentGrade >= 70 then
+   resultLabel.number = "1.0" ' display "1.0"
+else
+if studentGrade >= 0 then
+   resultLabel.number = "0" ' display "0"
+else
